@@ -19,12 +19,12 @@ thm_pink="#f087bd"
 
 thm_red="#d0679d"
 
-#thm_green="#5de4c7"
-thm_green="#add7ff"
+thm_green="#5de4c7"
 
 thm_yellow="#fffac2"
 
-thm_blue="#5fb3a1"
+#thm_blue="#5fb3a1"
+thm_blue="#e4f0fb"
 
 #thm_orange="#d0679d"
 thm_orange="#fffac2"
