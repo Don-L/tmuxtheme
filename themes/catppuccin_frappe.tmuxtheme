@@ -25,7 +25,8 @@ thm_yellow="#fffac2"
 
 thm_blue="#5fb3a1"
 
-thm_orange="#d0679d"
+#thm_orange="#d0679d"
+thm_orange="#fffac2"
 
 #thm_black4="#7390aa"
 thm_black4="#1b1e28"
