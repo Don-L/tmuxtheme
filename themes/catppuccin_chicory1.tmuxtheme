@@ -4,8 +4,7 @@
 # --> Catppuccin (Chicory1)
 # main status bar bg, selected tab name bg, status icon fg colour
 # poimandres focus
-#thm_bg="#303340"
-thm_bg="#ffa500"
+thm_bg="#303340"
 # status bar text colour
 # poimandres offWhite
 thm_fg="#e4f0fb"
@@ -16,7 +15,8 @@ thm_cyan="#89ddff"
 # poimandres bg
 thm_black="#1b1e28"
 # custom grey
-thm_gray="#384653"
+#thm_gray="#384653"
+thm_gray="#ffa500"
 # poimandres selection
 thm_magenta="#717cb4"
 # poimandres pink
