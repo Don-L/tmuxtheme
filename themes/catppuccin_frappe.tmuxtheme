@@ -2,32 +2,30 @@
 # WARNING: hex colors can't contain capital letters
 
 # --> Catppuccin (Frappe)
+# poimandres focus
 thm_bg="#303340"
-
-#thm_fg="#add7ff"
+# poimandres offWhite
 thm_fg="#e4f0fb"
-
+# poimandres lowerBlue
 thm_cyan="#89ddff"
-
+# poimandres bg
 thm_black="#1b1e28"
-
-#thm_gray="#506477"
-thm_gray="#384653"
+# custom grey
+#thm_gray="#384653"
+thm_gray="#506477"
+# poimandres selection
 thm_magenta="#717cb4"
-
+# poimandres pink
 thm_pink="#f087bd"
-
+# poimandres hotRed
 thm_red="#d0679d"
-
+# poimandres brightMint
 thm_green="#5de4c7"
-
+# poimandres brightYellow
 thm_yellow="#fffac2"
-
-#thm_blue="#5fb3a1"
+# poimandres lightBlue
 thm_blue="#add7ff"
-
-#thm_orange="#d0679d"
+# poimandres brightYellow
 thm_orange="#fffac2"
-
-#thm_black4="#7390aa"
+# poimandres bg
 thm_black4="#1b1e28"
