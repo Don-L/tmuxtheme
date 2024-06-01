@@ -2,12 +2,15 @@
 # WARNING: hex colors can't contain capital letters
 
 # --> Catppuccin (Chicory1)
+# main status bar bg, selected tab name bg, status icon fg colour
 # poimandres focus
 thm_bg="#303340"
+# status bar text colour
 # poimandres offWhite
 thm_fg="#e4f0fb"
 # poimandres lowerBlue
-thm_cyan="#89ddff"
+#thm_cyan="#89ddff"
+thm_cyan="#ffa500"
 # poimandres bg
 thm_black="#1b1e28"
 # custom grey
