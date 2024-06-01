@@ -17,11 +17,12 @@ thm_black="#1b1e28"
 # inactive tab bg, inactive tab number colour, status name bg
 # custom grey
 thm_gray="#384653"
+# unused
 # poimandres selection
-#thm_magenta="#717cb4"
-thm_magenta="#ffa500"
+thm_magenta="#717cb4"
 # poimandres pink
-thm_pink="#f087bd"
+#thm_pink="#f087bd"
+thm_pink="#ffa500"
 # poimandres hotRed
 thm_red="#d0679d"
 # poimandres brightMint
