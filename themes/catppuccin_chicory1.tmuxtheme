@@ -32,10 +32,11 @@ thm_green="#5de4c7"
 # unknown
 # poimandres brightYellow
 thm_yellow="#fffac2"
+# unknown
 # poimandres lightBlue
-#thm_blue="#add7ff"
-thm_blue="#ffa500"
+thm_blue="#add7ff"
 # poimandres brightYellow
-thm_orange="#fffac2"
+#thm_orange="#fffac2"
+thm_orange="#ffa500"
 # poimandres bg
 thm_black4="#1b1e28"
