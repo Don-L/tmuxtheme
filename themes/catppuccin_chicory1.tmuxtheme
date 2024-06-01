@@ -1,0 +1,30 @@
+# NOTE: you can use vars with $<var> and ${<var>} as long as the str is double quoted: ""
+# WARNING: hex colors can't contain capital letters
+
+# --> Catppuccin (Chicory1)
+# poimandres focus
+thm_bg="#303340"
+# poimandres offWhite
+thm_fg="#e4f0fb"
+# poimandres lowerBlue
+thm_cyan="#89ddff"
+# poimandres bg
+thm_black="#1b1e28"
+# custom grey
+thm_gray="#384653"
+# poimandres selection
+thm_magenta="#717cb4"
+# poimandres pink
+thm_pink="#f087bd"
+# poimandres hotRed
+thm_red="#d0679d"
+# poimandres brightMint
+thm_green="#5de4c7"
+# poimandres brightYellow
+thm_yellow="#fffac2"
+# poimandres lightBlue
+thm_blue="#add7ff"
+# poimandres brightYellow
+thm_orange="#fffac2"
+# poimandres bg
+thm_black4="#1b1e28"
