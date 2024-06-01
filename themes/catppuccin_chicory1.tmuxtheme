@@ -20,6 +20,9 @@ thm_green="#5de4c7"
 # active tab number bg
 # poimandres brightYellow
 thm_orange="#fffac2"
+# inactive tab number bg
+# poimandres lightBlue
+thm_blue="#add7ff"
 
 # colours I'm not using AFAIK
 # poimandres lowerBlue
@@ -37,9 +40,7 @@ thm_red="#ffffff"
 # poimandres brightYellow
 #thm_yellow="#fffac2"
 thm_yellow="#ffffff"
-# poimandres lightBlue
-thm_blue="#add7ff"
 #thm_blue="#ffffff"
 # poimandres bg
-thm_black4="#1b1e28"
-#thm_black4="#ffffff"
+#thm_black4="#1b1e28"
+thm_black4="#a6accd"
