@@ -29,7 +29,8 @@ thm_black="#1b1e28"
 # poimandres selection
 thm_magenta="#717cb4"
 # poimandres hotRed
-thm_red="#d0679d"
+#thm_red="#d0679d"
+thm_red="#ffffff"
 # poimandres brightYellow
 thm_yellow="#fffac2"
 # poimandres lightBlue
