@@ -11,8 +11,7 @@ thm_cyan="#89ddff"
 # poimandres bg
 thm_black="#1b1e28"
 # custom grey
-#thm_gray="#384653"
-thm_gray="#506477"
+thm_gray="#384653"
 # poimandres selection
 thm_magenta="#717cb4"
 # poimandres pink
