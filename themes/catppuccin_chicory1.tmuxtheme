@@ -35,8 +35,9 @@ thm_yellow="#fffac2"
 # unknown
 # poimandres lightBlue
 thm_blue="#add7ff"
+# active tab number bg
 # poimandres brightYellow
-#thm_orange="#fffac2"
-thm_orange="#ffa500"
+thm_orange="#fffac2"
 # poimandres bg
-thm_black4="#1b1e28"
+#thm_black4="#1b1e28"
+thm_black4="#ffa500"
