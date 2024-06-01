@@ -20,11 +20,12 @@ thm_gray="#384653"
 # unused
 # poimandres selection
 thm_magenta="#717cb4"
+# application status icon bg
 # poimandres pink
-#thm_pink="#f087bd"
-thm_pink="#ffa500"
+thm_pink="#f087bd"
 # poimandres hotRed
-thm_red="#d0679d"
+#thm_red="#d0679d"
+thm_red="#ffa500"
 # poimandres brightMint
 thm_green="#5de4c7"
 # poimandres brightYellow
