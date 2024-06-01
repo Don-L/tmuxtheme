@@ -23,11 +23,12 @@ thm_magenta="#717cb4"
 # application status icon bg
 # poimandres pink
 thm_pink="#f087bd"
+# unknown
 # poimandres hotRed
-#thm_red="#d0679d"
-thm_red="#ffa500"
+thm_red="#d0679d"
 # poimandres brightMint
-thm_green="#5de4c7"
+#thm_green="#5de4c7"
+thm_green="#ffa500"
 # poimandres brightYellow
 thm_yellow="#fffac2"
 # poimandres lightBlue
