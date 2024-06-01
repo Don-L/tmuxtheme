@@ -29,11 +29,12 @@ thm_red="#d0679d"
 # session status icon bg
 # poimandres brightMint
 thm_green="#5de4c7"
+# unknown
 # poimandres brightYellow
-#thm_yellow="#fffac2"
-thm_yellow="ffa500"
+thm_yellow="#fffac2"
 # poimandres lightBlue
-thm_blue="#add7ff"
+#thm_blue="#add7ff"
+thm_blue="#ffa500"
 # poimandres brightYellow
 thm_orange="#fffac2"
 # poimandres bg
