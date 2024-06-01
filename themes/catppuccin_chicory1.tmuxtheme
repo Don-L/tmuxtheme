@@ -8,36 +8,31 @@ thm_bg="#303340"
 # status bar text colour
 # poimandres offWhite
 thm_fg="#e4f0fb"
-# unused
-# poimandres lowerBlue
-thm_cyan="#89ddff"
-# unused
-# poimandres bg
-thm_black="#1b1e28"
 # inactive tab bg, inactive tab number colour, status name bg
 # custom grey
 thm_gray="#384653"
-# unused
-# poimandres selection
-thm_magenta="#717cb4"
 # application status icon bg
 # poimandres pink
 thm_pink="#f087bd"
-# unknown
-# poimandres hotRed
-thm_red="#d0679d"
 # session status icon bg
 # poimandres brightMint
 thm_green="#5de4c7"
-# unknown
-# poimandres brightYellow
-thm_yellow="#fffac2"
-# unknown
-# poimandres lightBlue
-thm_blue="#add7ff"
 # active tab number bg
 # poimandres brightYellow
 thm_orange="#fffac2"
+
+# colours I'm not using AFAIK
+# poimandres lowerBlue
+thm_cyan="#89ddff"
 # poimandres bg
-#thm_black4="#1b1e28"
-thm_black4="#ffa500"
+thm_black="#1b1e28"
+# poimandres selection
+thm_magenta="#717cb4"
+# poimandres hotRed
+thm_red="#d0679d"
+# poimandres brightYellow
+thm_yellow="#fffac2"
+# poimandres lightBlue
+thm_blue="#add7ff"
+# poimandres bg
+thm_black4="#1b1e28"
