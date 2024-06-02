@@ -24,8 +24,7 @@ thm_orange="#fffac2"
 # poimandres lightBlue
 thm_blue="#add7ff"
 # selection bg
-# poimandres bg, replaced with custom grey
-#thm_black4="#1b1e28"
+# custom grey
 thm_black4="#4f6477"
 # application status icon bg
 # poimandres lowerBlue
@@ -33,14 +32,14 @@ thm_cyan="#89ddff"
 # mode bg
 # poimandres bg
 thm_black="#1b1e28"
-
-# colours I'm not using AFAIK
-# poimandres selection
-#thm_magenta="#717cb4"
-thm_magenta="#ffffff"
+# session status pending icon bg
 # poimandres hotRed
-#thm_red="#d0679d"
-thm_red="#ffffff"
+thm_red="#d0679d"
+
+# colours whose purposes I'm unsure of...
+# something to do with panel borders?
+# poimandres pink
+thm_magenta="#f087bd"
+# same?
 # poimandres brightYellow
-#thm_yellow="#fffac2"
-thm_yellow="#ffffff"
+thm_yellow="#fffac2"
