@@ -12,8 +12,7 @@ thm_fg="#e4f0fb"
 # custom grey
 thm_gray="#384653"
 # selection fg
-# poimandres pink
-#thm_pink="#f087bd"
+# poimandres offWhite
 thm_pink="#e4f0fb"
 # session status icon bg
 # poimandres brightMint
