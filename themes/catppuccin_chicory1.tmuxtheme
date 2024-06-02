@@ -30,8 +30,7 @@ thm_black4="#4f6477"
 
 # colours I'm not using AFAIK
 # poimandres lowerBlue
-#thm_cyan="#89ddff"
-thm_cyan="#ffffff"
+thm_cyan="#89ddff"
 # poimandres bg
 #thm_black="#1b1e28"
 thm_black="#ffffff"
