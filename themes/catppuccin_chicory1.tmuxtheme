@@ -11,9 +11,10 @@ thm_fg="#e4f0fb"
 # inactive tab bg, inactive tab number colour, status name bg
 # custom grey
 thm_gray="#384653"
-# application status icon bg
+# selection fg
 # poimandres pink
-thm_pink="#f087bd"
+#thm_pink="#f087bd"
+thm_pink="#e4f0fb"
 # session status icon bg
 # poimandres brightMint
 thm_green="#5de4c7"
@@ -27,10 +28,11 @@ thm_blue="#add7ff"
 # poimandres bg, replaced with custom grey
 #thm_black4="#1b1e28"
 thm_black4="#4f6477"
-
-# colours I'm not using AFAIK
+# application status icon bg
 # poimandres lowerBlue
 thm_cyan="#89ddff"
+
+# colours I'm not using AFAIK
 # poimandres bg
 #thm_black="#1b1e28"
 thm_black="#ffffff"
